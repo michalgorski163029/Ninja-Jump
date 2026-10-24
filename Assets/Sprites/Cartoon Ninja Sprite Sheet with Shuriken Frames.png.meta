@@ -1,0 +1,525 @@
+fileFormatVersion: 2
+guid: 5393e9118f61bd942b88e0f71e34e997
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5198195281199902592
+    second: Cartoon Ninja Sprite Sheet with Shuriken Frames_0
+  - first:
+      213: -2944386745200943298
+    second: Cartoon Ninja Sprite Sheet with Shuriken Frames_1
+  - first:
+      213: -1148647195540748925
+    second: Cartoon Ninja Sprite Sheet with Shuriken Frames_2
+  - first:
+      213: 6425318725449692043
+    second: Cartoon Ninja Sprite Sheet with Shuriken Frames_3
+  - first:
+      213: 5945434252597966471
+    second: Cartoon Ninja Sprite Sheet with Shuriken Frames_4
+  - first:
+      213: 7238388372567426504
+    second: Cartoon Ninja Sprite Sheet with Shuriken Frames_5
+  - first:
+      213: -3139576351481233509
+    second: Cartoon Ninja Sprite Sheet with Shuriken Frames_6
+  - first:
+      213: 8825494826998787750
+    second: Cartoon Ninja Sprite Sheet with Shuriken Frames_7
+  - first:
+      213: 5023863755332203865
+    second: Cartoon Ninja Sprite Sheet with Shuriken Frames_8
+  - first:
+      213: 4740995907743275024
+    second: Cartoon Ninja Sprite Sheet with Shuriken Frames_9
+  - first:
+      213: 1156668939393526842
+    second: Cartoon Ninja Sprite Sheet with Shuriken Frames_10
+  - first:
+      213: -8923435903450820650
+    second: Cartoon Ninja Sprite Sheet with Shuriken Frames_11
+  - first:
+      213: 7541937553547857348
+    second: Cartoon Ninja Sprite Sheet with Shuriken Frames_12
+  - first:
+      213: -4191259487892699680
+    second: Cartoon Ninja Sprite Sheet with Shuriken Frames_13
+  - first:
+      213: -2250578598300381156
+    second: Cartoon Ninja Sprite Sheet with Shuriken Frames_14
+  - first:
+      213: 6139387159559647841
+    second: Cartoon Ninja Sprite Sheet with Shuriken Frames_15
+  - first:
+      213: -6476802616506495728
+    second: Cartoon Ninja Sprite Sheet with Shuriken Frames_16
+  - first:
+      213: 3386791402072699766
+    second: Cartoon Ninja Sprite Sheet with Shuriken Frames_17
+  - first:
+      213: 6490348553347070295
+    second: Cartoon Ninja Sprite Sheet with Shuriken Frames_18
+  - first:
+      213: 4743263012837561825
+    second: Cartoon Ninja Sprite Sheet with Shuriken Frames_19
+  - first:
+      213: 4664422973102941946
+    second: Cartoon Ninja Sprite Sheet with Shuriken Frames_20
+  - first:
+      213: 382994621959713386
+    second: Cartoon Ninja Sprite Sheet with Shuriken Frames_21
+  - first:
+      213: -8008838343529642813
+    second: Cartoon Ninja Sprite Sheet with Shuriken Frames_22
+  - first:
+      213: -2661704038314802125
+    second: Cartoon Ninja Sprite Sheet with Shuriken Frames_23
+  - first:
+      213: 5804323606018828138
+    second: Cartoon Ninja Sprite Sheet with Shuriken Frames_24
+  - first:
+      213: 4389801732638481097
+    second: Cartoon Ninja Sprite Sheet with Shuriken Frames_25
+  - first:
+      213: 3555700872447642860
+    second: Cartoon Ninja Sprite Sheet with Shuriken Frames_26
+  - first:
+      213: -2665101229527063314
+    second: Cartoon Ninja Sprite Sheet with Shuriken Frames_27
+  - first:
+      213: 655335248311967326
+    second: Cartoon Ninja Sprite Sheet with Shuriken Frames_28
+  - first:
+      213: -733358822797192866
+    second: Cartoon Ninja Sprite Sheet with Shuriken Frames_29
+  - first:
+      213: 6234093491716917740
+    second: Cartoon Ninja Sprite Sheet with Shuriken Frames_30
+  - first:
+      213: -7882624677114743771
+    second: Cartoon Ninja Sprite Sheet with Shuriken Frames_31
+  - first:
+      213: -8571208923087843546
+    second: Cartoon Ninja Sprite Sheet with Shuriken Frames_32
+  - first:
+      213: 3467814409439107783
+    second: Cartoon Ninja Sprite Sheet with Shuriken Frames_33
+  - first:
+      213: -3568660888608445343
+    second: Cartoon Ninja Sprite Sheet with Shuriken Frames_34
+  - first:
+      213: 5446803036091202603
+    second: Cartoon Ninja Sprite Sheet with Shuriken Frames_35
+  - first:
+      213: 6701969978888115990
+    second: Cartoon Ninja Sprite Sheet with Shuriken Frames_36
+  - first:
+      213: 3093297634478450142
+    second: Cartoon Ninja Sprite Sheet with Shuriken Frames_37
+  - first:
+      213: 9187112820669702537
+    second: Cartoon Ninja Sprite Sheet with Shuriken Frames_38
+  - first:
+      213: -8379968660759153455
+    second: Cartoon Ninja Sprite Sheet with Shuriken Frames_39
+  - first:
+      213: 3449750081906512465
+    second: Cartoon Ninja Sprite Sheet with Shuriken Frames_40
+  - first:
+      213: -3858899417358908046
+    second: Cartoon Ninja Sprite Sheet with Shuriken Frames_41
+  - first:
+      213: 1409105128221354981
+    second: Cartoon Ninja Sprite Sheet with Shuriken Frames_42
+  - first:
+      213: 5764390266918817454
+    second: Cartoon Ninja Sprite Sheet with Shuriken Frames_43
+  - first:
+      213: 383796712668772661
+    second: Cartoon Ninja Sprite Sheet with Shuriken Frames_44
+  - first:
+      213: -7793548518134005711
+    second: Cartoon Ninja Sprite Sheet with Shuriken Frames_45
+  - first:
+      213: -377232067216400570
+    second: Cartoon Ninja Sprite Sheet with Shuriken Frames_46
+  - first:
+      213: 4861201805251664119
+    second: Cartoon Ninja Sprite Sheet with Shuriken Frames_47
+  - first:
+      213: -1187146360987724505
+    second: Cartoon Ninja Sprite Sheet with Shuriken Frames_48
+  - first:
+      213: 3457265547779717935
+    second: Cartoon Ninja Sprite Sheet with Shuriken Frames_49
+  - first:
+      213: 8997934545904967236
+    second: Cartoon Ninja Sprite Sheet with Shuriken Frames_50
+  - first:
+      213: 2055234440516976343
+    second: Cartoon Ninja Sprite Sheet with Shuriken Frames_51
+  - first:
+      213: -3548564278504221631
+    second: Cartoon Ninja Sprite Sheet with Shuriken Frames_52
+  - first:
+      213: 532701372941598072
+    second: Cartoon Ninja Sprite Sheet with Shuriken Frames_53
+  - first:
+      213: -6560474960678227857
+    second: Cartoon Ninja Sprite Sheet with Shuriken Frames_54
+  - first:
+      213: -7267186358724020201
+    second: Cartoon Ninja Sprite Sheet with Shuriken Frames_55
+  - first:
+      213: -6653970574105606783
+    second: Cartoon Ninja Sprite Sheet with Shuriken Frames_56
+  - first:
+      213: -8929844578432721326
+    second: Cartoon Ninja Sprite Sheet with Shuriken Frames_57
+  - first:
+      213: 1189988409902555034
+    second: Cartoon Ninja Sprite Sheet with Shuriken Frames_58
+  - first:
+      213: -6392220156625397127
+    second: Cartoon Ninja Sprite Sheet with Shuriken Frames_59
+  - first:
+      213: -8189640961381353394
+    second: Cartoon Ninja Sprite Sheet with Shuriken Frames_60
+  - first:
+      213: 7312772730617771587
+    second: Cartoon Ninja Sprite Sheet with Shuriken Frames_61
+  - first:
+      213: 5621603185296673767
+    second: Cartoon Ninja Sprite Sheet with Shuriken Frames_62
+  - first:
+      213: 1353627539203328845
+    second: Cartoon Ninja Sprite Sheet with Shuriken Frames_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NinjaIdle
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 688
+        width: 246
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 080d7f6deec4cd7b0800000000000000
+      internalID: -5198195281199902592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShurikenSprite
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 103
+        width: 136
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d49a2ee37b48a034c84be7cccef88af5
+      internalID: -396717394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaJump1
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 429
+        width: 223
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df855ae61939d7b45b8be574aa3f9d26
+      internalID: -1829177389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaJump2
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 434
+        width: 235
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4455bfa47398f5243a246b77a587db9c
+      internalID: 1246989614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaJump3
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 414
+        width: 253
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1634c94da3108f341b5eeeb78b8a3f0e
+      internalID: -582189526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaJump4
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 402
+        width: 226
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 797dac59bde31e44e977f095b42daf2f
+      internalID: 1769325469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 235af989eec31d749bea1d415959a442
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Cartoon Ninja Sprite Sheet with Shuriken Frames_1: -2944386745200943298
+      Cartoon Ninja Sprite Sheet with Shuriken Frames_10: 1156668939393526842
+      Cartoon Ninja Sprite Sheet with Shuriken Frames_11: -8923435903450820650
+      Cartoon Ninja Sprite Sheet with Shuriken Frames_12: 7541937553547857348
+      Cartoon Ninja Sprite Sheet with Shuriken Frames_13: -4191259487892699680
+      Cartoon Ninja Sprite Sheet with Shuriken Frames_14: -2250578598300381156
+      Cartoon Ninja Sprite Sheet with Shuriken Frames_15: 6139387159559647841
+      Cartoon Ninja Sprite Sheet with Shuriken Frames_16: -6476802616506495728
+      Cartoon Ninja Sprite Sheet with Shuriken Frames_17: 3386791402072699766
+      Cartoon Ninja Sprite Sheet with Shuriken Frames_18: 6490348553347070295
+      Cartoon Ninja Sprite Sheet with Shuriken Frames_19: 4743263012837561825
+      Cartoon Ninja Sprite Sheet with Shuriken Frames_2: -1148647195540748925
+      Cartoon Ninja Sprite Sheet with Shuriken Frames_20: 4664422973102941946
+      Cartoon Ninja Sprite Sheet with Shuriken Frames_21: 382994621959713386
+      Cartoon Ninja Sprite Sheet with Shuriken Frames_22: -8008838343529642813
+      Cartoon Ninja Sprite Sheet with Shuriken Frames_23: -2661704038314802125
+      Cartoon Ninja Sprite Sheet with Shuriken Frames_24: 5804323606018828138
+      Cartoon Ninja Sprite Sheet with Shuriken Frames_25: 4389801732638481097
+      Cartoon Ninja Sprite Sheet with Shuriken Frames_26: 3555700872447642860
+      Cartoon Ninja Sprite Sheet with Shuriken Frames_27: -2665101229527063314
+      Cartoon Ninja Sprite Sheet with Shuriken Frames_28: 655335248311967326
+      Cartoon Ninja Sprite Sheet with Shuriken Frames_29: -733358822797192866
+      Cartoon Ninja Sprite Sheet with Shuriken Frames_3: 6425318725449692043
+      Cartoon Ninja Sprite Sheet with Shuriken Frames_30: 6234093491716917740
+      Cartoon Ninja Sprite Sheet with Shuriken Frames_31: -7882624677114743771
+      Cartoon Ninja Sprite Sheet with Shuriken Frames_32: -8571208923087843546
+      Cartoon Ninja Sprite Sheet with Shuriken Frames_33: 3467814409439107783
+      Cartoon Ninja Sprite Sheet with Shuriken Frames_34: -3568660888608445343
+      Cartoon Ninja Sprite Sheet with Shuriken Frames_35: 5446803036091202603
+      Cartoon Ninja Sprite Sheet with Shuriken Frames_36: 6701969978888115990
+      Cartoon Ninja Sprite Sheet with Shuriken Frames_37: 3093297634478450142
+      Cartoon Ninja Sprite Sheet with Shuriken Frames_38: 9187112820669702537
+      Cartoon Ninja Sprite Sheet with Shuriken Frames_39: -8379968660759153455
+      Cartoon Ninja Sprite Sheet with Shuriken Frames_4: 5945434252597966471
+      Cartoon Ninja Sprite Sheet with Shuriken Frames_40: 3449750081906512465
+      Cartoon Ninja Sprite Sheet with Shuriken Frames_41: -3858899417358908046
+      Cartoon Ninja Sprite Sheet with Shuriken Frames_42: 1409105128221354981
+      Cartoon Ninja Sprite Sheet with Shuriken Frames_43: 5764390266918817454
+      Cartoon Ninja Sprite Sheet with Shuriken Frames_44: 383796712668772661
+      Cartoon Ninja Sprite Sheet with Shuriken Frames_45: -7793548518134005711
+      Cartoon Ninja Sprite Sheet with Shuriken Frames_46: -377232067216400570
+      Cartoon Ninja Sprite Sheet with Shuriken Frames_47: 4861201805251664119
+      Cartoon Ninja Sprite Sheet with Shuriken Frames_48: -1187146360987724505
+      Cartoon Ninja Sprite Sheet with Shuriken Frames_49: 3457265547779717935
+      Cartoon Ninja Sprite Sheet with Shuriken Frames_5: 7238388372567426504
+      Cartoon Ninja Sprite Sheet with Shuriken Frames_50: 8997934545904967236
+      Cartoon Ninja Sprite Sheet with Shuriken Frames_51: 2055234440516976343
+      Cartoon Ninja Sprite Sheet with Shuriken Frames_52: -3548564278504221631
+      Cartoon Ninja Sprite Sheet with Shuriken Frames_53: 532701372941598072
+      Cartoon Ninja Sprite Sheet with Shuriken Frames_54: -6560474960678227857
+      Cartoon Ninja Sprite Sheet with Shuriken Frames_55: -7267186358724020201
+      Cartoon Ninja Sprite Sheet with Shuriken Frames_56: -6653970574105606783
+      Cartoon Ninja Sprite Sheet with Shuriken Frames_57: -8929844578432721326
+      Cartoon Ninja Sprite Sheet with Shuriken Frames_58: 1189988409902555034
+      Cartoon Ninja Sprite Sheet with Shuriken Frames_59: -6392220156625397127
+      Cartoon Ninja Sprite Sheet with Shuriken Frames_6: -3139576351481233509
+      Cartoon Ninja Sprite Sheet with Shuriken Frames_60: -8189640961381353394
+      Cartoon Ninja Sprite Sheet with Shuriken Frames_61: 7312772730617771587
+      Cartoon Ninja Sprite Sheet with Shuriken Frames_62: 5621603185296673767
+      Cartoon Ninja Sprite Sheet with Shuriken Frames_63: 1353627539203328845
+      Cartoon Ninja Sprite Sheet with Shuriken Frames_7: 8825494826998787750
+      Cartoon Ninja Sprite Sheet with Shuriken Frames_8: 5023863755332203865
+      Cartoon Ninja Sprite Sheet with Shuriken Frames_9: 4740995907743275024
+      NinjaIdle: -5198195281199902592
+      NinjaJump1: -1829177389
+      NinjaJump2: 1246989614
+      NinjaJump3: -582189526
+      NinjaJump4: 1769325469
+      ShurikenSprite: -396717394
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
